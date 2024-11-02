@@ -17,11 +17,11 @@ test-cases:
     status: pass
 
   - summary: |
-      Проверка фильтра товаров "В наличии"
+      Проверка фильтров товаров "В наличии"
     status: fail
 
   - summary: |
-      Проверка фильтра товаров по цене
+      Проверка фильтров товаров по цене
     status: pass
 
   - summary: |
@@ -49,7 +49,7 @@ test-cases:
     status: pass
 
   - summary: |
-      Проверка оформления заказа
+      Проверка оформление заказа
     status: fail
 
   - summary: |
@@ -73,7 +73,7 @@ test-cases:
     status: fail
 
   - summary: |
-      Проверка отображения брендов товаров в фильтре
+      Проверка отображения брендов в фильтре
     status: fail
 
   - summary: |
